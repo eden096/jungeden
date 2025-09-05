@@ -10,14 +10,14 @@
 
 ---
 
-### 🛠️ 기술 (Skills)
+### Skills
 
 ![My Skills](https://skillicons.dev/icons?i=py,c,html,css,js)
 
 
 ---
 
-### 🌱 관심 분야 (Interests)
+### Interests
 
 ![My Interests](https://skillicons.dev/icons?i=tensorflow,unity,unrealengine)
 
